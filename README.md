@@ -7,4 +7,5 @@
 
 ##Android动画
 1.viewpager动画详解
-http://www.lightskystreet.com/2014/12/15/viewpager-anim/
+  >http://www.lightskystreet.com/2014/12/15/viewpager-anim/
+  >https://github.com/ToxicBakery/ViewPagerTransforms
