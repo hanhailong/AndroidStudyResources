@@ -9,3 +9,5 @@
 1.viewpager动画详解
   >http://www.lightskystreet.com/2014/12/15/viewpager-anim/
   >https://github.com/ToxicBakery/ViewPagerTransforms
+2.搞笑的学习Android动画
+  知乎专栏：http://www.zhihu.com/question/27718787
