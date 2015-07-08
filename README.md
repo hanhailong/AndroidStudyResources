@@ -1,5 +1,11 @@
 [CSDN 博客地址](http://blog.csdn.net/hanhailong726188?viewmode=contents)
 
+***
+
+##在使用Android Studio的时候，在写Dependency依赖库的时候，往往不知道compile后面一大串的内容，如库的包名、版本号，[alfi](https://github.com/cesarferreira/alfi)就很好的解决了这个问题，安装完后，直接alfi + 库名 搜索就可以了，类似IOS的cocoapods中的pod search命令
+
+***
+
 # AndroidStudyResources
 整理的Android学习资源，不定期的更新
 
