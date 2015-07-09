@@ -43,6 +43,16 @@
 ##多线程下载
 1.https://github.com/AigeStudio/MultiThreadDownloader
 
+##Android依赖注入框架
+1.https://github.com/avast/android-butterknife-zelezny  butterknife的AS插件
+2.https://github.com/JakeWharton/butterknife
+3.https://github.com/excilys/androidannotations 
+4.https://github.com/google/dagger      google的dagger2
+5.https://github.com/square/dagger  square的dagger1
+
+##Android、Java的Rest客户端
+1.https://github.com/square/retrofit
+
 
 
 
