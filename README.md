@@ -60,6 +60,16 @@
 ##Android、Java的Rest客户端
 1.https://github.com/square/retrofit
 
+##好看的指示器Indicator
+1.https://github.com/LyndonChin/AndroidRubberIndicator
+
+##官方版本MVVM
+1.https://github.com/LyndonChin/MasteringAndroidDataBinding
+
+
+##热门标签流式布局
+1.https://github.com/LyndonChin/AndroidFlowLayout
+
 
 
 
