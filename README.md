@@ -4,6 +4,10 @@
 
 ##在使用Android Studio的时候，在写Dependency依赖库的时候，往往不知道compile后面一大串的内容，如库的包名、版本号，[alfi](https://github.com/cesarferreira/alfi)就很好的解决了这个问题，安装完后，直接alfi + 库名 搜索就可以了，类似IOS的cocoapods中的pod search命令
 
+#不错的Android学习源码（整个app）
+1.https://github.com/xingrz/GankMeizhi  干妹子
+
+
 ***
 #强烈推荐，Android源码解析学习网站  
 1.http://codekk.com/open-source-project-analysis
@@ -75,6 +79,9 @@ https://github.com/daimajia/AndroidViewAnimations
 
 ##热门标签流式布局
 1.https://github.com/LyndonChin/AndroidFlowLayout
+
+##高级的Textview
+1.https://github.com/chiuki/advanced-textview
 
 
 
