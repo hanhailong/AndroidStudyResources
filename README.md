@@ -16,6 +16,10 @@
 # AndroidStudyResources
 整理的Android学习资源，不定期的更新
 
+##Android支持item滑动显示更多操作按钮
+1.https://github.com/daimajia/AndroidSwipeLayout 支持任何一种布局，非常强大
+2.https://github.com/baoyongzhang/SwipeMenuListView 只支持listview
+
 ##好用的图标图库
 1.天猫矢量图库地址 http://www.iconfont.cn/repositories/60
 
