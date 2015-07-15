@@ -30,6 +30,8 @@
   >https://github.com/ToxicBakery/ViewPagerTransforms
 2.搞笑的学习Android动画
   知乎专栏：http://www.zhihu.com/question/27718787
+3.强大的Android动画库
+https://github.com/daimajia/AndroidViewAnimations
   
 
 ##Material Design设计资源
