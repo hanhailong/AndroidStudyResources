@@ -6,6 +6,7 @@
 
 #不错的Android学习源码（整个app）
 1.https://github.com/xingrz/GankMeizhi  干妹子
+2.https://github.com/wangdan/AisenWeiBo 新浪微博第三方Android客户端
 
 
 ***
