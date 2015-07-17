@@ -21,6 +21,9 @@
 # AndroidStudyResources
 整理的Android学习资源，不定期的更新
 
+##ViewPager扩展
+1.https://github.com/Pixplicity/MultiViewPager 它可以让ViewPager一次显示更宽或者更窄的内容，它很好的处理了page之间的位置关系，能保证每次被选中的page显示在中间。
+
 ##浮动操作按钮
 1.https://github.com/makovkastar/FloatingActionButton 不是官方版本，就是在指定了AbsListView, RecyclerView 或者 ScrollView 之后，按钮可以根据列表的滚动显示或者隐藏。
 2.android.support.design.widget.FloatingActionButton      优点是可以与Snackbar和CoordinatorLayout配合，在Snackbar显示的时候让出足够的空间
