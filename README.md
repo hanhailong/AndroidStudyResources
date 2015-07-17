@@ -20,6 +20,14 @@
 # AndroidStudyResources
 整理的Android学习资源，不定期的更新
 
+##浮动操作按钮
+1.https://github.com/makovkastar/FloatingActionButton 不是官方版本，就是在指定了AbsListView, RecyclerView 或者 ScrollView 之后，按钮可以根据列表的滚动显示或者隐藏。
+2.android.support.design.widget.FloatingActionButton      优点是可以与Snackbar和CoordinatorLayout配合，在Snackbar显示的时候让出足够的空间
+3. https://github.com/shell-software/fab  
+4.https://github.com/wangjiegulu/RapidFloatingActionButton  浮动操作按钮能像inbox中的那样展开更多的按钮
+5.https://github.com/futuresimple/android-floating-action-button 
+
+
 ##Android支持item滑动显示更多操作按钮
 1.https://github.com/daimajia/AndroidSwipeLayout 支持任何一种布局，非常强大
 2.https://github.com/baoyongzhang/SwipeMenuListView 只支持listview
@@ -36,6 +44,9 @@
   知乎专栏：http://www.zhihu.com/question/27718787
 3.强大的Android动画库
 https://github.com/daimajia/AndroidViewAnimations
+4.可以让view在父类布局中移动的库
+https://github.com/shell-software/viewmover
+5.https://github.com/wangjiegulu/DraggableFlagView  可拖曳的小红点，仿QQ消息清除效果
   
 
 ##Material Design设计资源
