@@ -51,6 +51,7 @@ https://github.com/daimajia/AndroidViewAnimations
 4.可以让view在父类布局中移动的库
 https://github.com/shell-software/viewmover
 5.https://github.com/wangjiegulu/DraggableFlagView  可拖曳的小红点，仿QQ消息清除效果
+6.https://github.com/jpardogo/GoogleProgressBar Google不错的动画效果
   
 
 ##Material Design设计资源
