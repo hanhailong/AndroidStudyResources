@@ -21,6 +21,14 @@
 # AndroidStudyResources
 整理的Android学习资源，不定期的更新
 
+##MVP设计模式
+1.https://github.com/sockeqwe/mosby
+2.https://github.com/square/mortar 
+3.https://github.com/konmik/nucleus
+
+##官方版本MVVM
+1.https://github.com/LyndonChin/MasteringAndroidDataBinding
+
 ##Gradle讲解
 1.http://saulmm.github.io/squeezing-gradle-builds/?utm_source=Android+Weekly&utm_campaign=4985998ae5-Android_Weekly_163&utm_medium=email&utm_term=0_4eb677ad19-4985998ae5-337838241 不错的Gradle多渠道打包，替换资源
 
@@ -91,10 +99,6 @@ https://github.com/shell-software/viewmover
 
 ##好看的指示器Indicator
 1.https://github.com/LyndonChin/AndroidRubberIndicator
-
-##官方版本MVVM
-1.https://github.com/LyndonChin/MasteringAndroidDataBinding
-
 
 ##热门标签流式布局
 1.https://github.com/LyndonChin/AndroidFlowLayout
