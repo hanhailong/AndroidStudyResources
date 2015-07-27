@@ -18,6 +18,9 @@
 #各种语言的gitignore
 1.https://github.com/github/gitignore
 
+##Android遇到的问题总结，非常不错
+1.https://github.com/android-cn/android-discuss
+
 # AndroidStudyResources
 整理的Android学习资源，不定期的更新
 
