@@ -24,6 +24,9 @@
 # AndroidStudyResources
 整理的Android学习资源，不定期的更新
 
+##Merarial Design设计
+1.https://github.com/frogermcs/InstaMaterial
+
 ##MVP设计模式
 1.https://github.com/sockeqwe/mosby
 2.https://github.com/square/mortar 
@@ -72,6 +75,7 @@ https://github.com/shell-software/viewmover
 1.https://github.com/florent37/MaterialViewPager \n
 2.https://github.com/AlexKolpa/fab-toolbar \n
 3.https://github.com/prolificinteractive/material-calendarview 日历 \n
+4.https://github.com/frogermcs/InstaMaterial 非常不错的例子讲解
 
 ##下拉刷新
 1.https://github.com/race604/FlyRefresh 纸飞机飞得效果 \n
