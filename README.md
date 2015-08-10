@@ -113,6 +113,7 @@ https://github.com/shell-software/viewmover
 
 ##高级的Textview
 1.https://github.com/chiuki/advanced-textview
+2.https://github.com/ufo22940268/android-justifiedtextview  TextView文字排版
 
 ##Android模糊实现blur
 1.https://github.com/500px/500px-android-blur
