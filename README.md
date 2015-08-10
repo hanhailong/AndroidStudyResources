@@ -121,6 +121,9 @@ https://github.com/shell-software/viewmover
 ##DrawerArrowDrawable
 1.https://github.com/hanhailong/DrawerArrowDrawable
 
+##Android自定义崩溃页面
+1.https://github.com/Ereza/CustomActivityOnCrash  不在显示难看的崩溃dialog，而是自定义崩溃页面
+
 
 
 
