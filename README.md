@@ -125,6 +125,9 @@ https://github.com/shell-software/viewmover
 ##Android自定义崩溃页面
 1.https://github.com/Ereza/CustomActivityOnCrash  不在显示难看的崩溃dialog，而是自定义崩溃页面
 
+##Android 滑轮时间选择器
+1.https://github.com/ai212983/android-spinnerwheel
+
 
 
 
