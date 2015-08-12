@@ -128,6 +128,9 @@ https://github.com/shell-software/viewmover
 ##Android 滑轮时间选择器
 1.https://github.com/ai212983/android-spinnerwheel
 
+##Android 一个可以解析和绘制SVG的PathView
+1.https://github.com/geftimov/android-pathview/
+
 
 
 
