@@ -86,6 +86,7 @@ https://github.com/shell-software/viewmover
 1.https://github.com/blipinsk/FlippableStackView 堆栈效果  \n
 2. https://github.com/binaryroot/HorizontalStackView 横向堆栈 \n
 3.https://github.com/MartinRGB/GiftCard-Android 礼品卡效果  \n 
+4.https://github.com/kikoso/Swipeable-Cards 效果非常赞的卡片移除效果，赞一个
 
 ##炫酷的自定义控件（包括进度条、checkbox等等）
 1.https://github.com/Tibolte/ElasticDownload  炫酷进度条 \n
