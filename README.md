@@ -131,6 +131,9 @@ https://github.com/shell-software/viewmover
 ##Android 一个可以解析和绘制SVG的PathView
 1.https://github.com/geftimov/android-pathview/
 
+##Android-点击View显示水波纹效果的库
+1.https://github.com/siriscac/RippleView
+
 
 
 
