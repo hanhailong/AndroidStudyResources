@@ -26,6 +26,7 @@
 
 ##Merarial Design设计
 1.https://github.com/frogermcs/InstaMaterial
+2.https://github.com/wasabeef/awesome-android-ui 给力的UI库
 
 ##MVP设计模式
 1.https://github.com/sockeqwe/mosby
