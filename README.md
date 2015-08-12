@@ -136,6 +136,9 @@ https://github.com/shell-software/viewmover
 ##Android-点击View显示水波纹效果的库
 1.https://github.com/siriscac/RippleView
 
+##一个复用代码的recycleview.adapter的库，秉承组合优于继承的原则
+1. https://github.com/hanhailong/AdapterDelegates 非常给力哦，对应的中文博客地址：http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0810/3282.html
+
 
 
 
