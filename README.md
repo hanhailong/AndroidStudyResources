@@ -8,6 +8,7 @@
 1.https://github.com/xingrz/GankMeizhi  干妹子
 2.https://github.com/wangdan/AisenWeiBo 新浪微博第三方Android客户端
 3.https://github.com/rizhilee/Beautyacticle 最美文字
+4.https://github.com/saulmm/Material-Movies 基于meterial design和mvp设计模式的app
 
 
 ***
@@ -33,6 +34,7 @@
 1.https://github.com/sockeqwe/mosby
 2.https://github.com/square/mortar 
 3.https://github.com/konmik/nucleus
+4.https://github.com/saulmm/Material-Movies
 
 ##官方版本MVVM
 1.https://github.com/LyndonChin/MasteringAndroidDataBinding
