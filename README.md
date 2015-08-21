@@ -155,5 +155,8 @@ https://github.com/shell-software/viewmover
 ##ListView快速返回的view，listview底部出现、隐藏操作栏
 1.https://github.com/LarsWerkman/QuickReturnListView  
 
+##Android弹出框
+2.https://github.com/pedant/sweet-alert-dialog 
+
 
 
