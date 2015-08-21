@@ -11,4 +11,5 @@ if (getTheme().resolveAttribute(android.R.attr.actionBarSize, tv, true))
 
 2.通过adb命令获取某个app的包名
 首先打开这个app，然后执行adb shell命令：adb shell dumpsys activity top，就可以列出当前的包名、Activity、View Hierarchy等信息，如图：
+![截图](https://github.com/hanhailong/AndroidStudyResources/blob/master/screenshot/adb_shell_activity_top.png)
 
