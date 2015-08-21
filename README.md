@@ -152,6 +152,8 @@ https://github.com/shell-software/viewmover
 2.https://github.com/astuetz/PagerSlidingTabStrip 
 3.https://github.com/JakeWharton/ViewPagerIndicator 
 
+##ListView快速返回的view，listview底部出现、隐藏操作栏
+1.https://github.com/LarsWerkman/QuickReturnListView  
 
 
 
