@@ -1,4 +1,4 @@
-1.通过签名文件获取签名命令
+###1.通过签名文件获取签名命令
 HailongHandeMacBook-Pro:Documents HanHailong$ keytool -list -v -keystore songa.jks
   其中songa.jks是签名文件
 
