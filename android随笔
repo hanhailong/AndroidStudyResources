@@ -8,3 +8,7 @@ if (getTheme().resolveAttribute(android.R.attr.actionBarSize, tv, true))
 {
     actionBarHeight = TypedValue.complexToDimensionPixelSize(tv.data,getResources().getDisplayMetrics());
 }
+
+2.通过adb命令获取某个app的包名
+首先打开这个app，然后执行adb shell命令：adb shell dumpsys activity top，就可以列出当前的包名、Activity、View Hierarchy等信息，如图：
+
