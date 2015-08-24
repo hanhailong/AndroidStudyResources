@@ -158,5 +158,9 @@ https://github.com/shell-software/viewmover
 ##Android弹出框
 2.https://github.com/pedant/sweet-alert-dialog 
 
+##给recylerview添加header或者footer
+1.https://github.com/Karumi/HeaderRecyclerView  修改adapter的方式
+2.https://github.com/blipinsk/RecyclerViewHeader 推荐这个
+
 
 
