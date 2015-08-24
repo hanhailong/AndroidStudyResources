@@ -145,7 +145,7 @@ https://github.com/shell-software/viewmover
 
 ##一个复用代码的recycleview.adapter的库，秉承组合优于继承的原则
 1. https://github.com/hanhailong/AdapterDelegates 非常给力哦，对应的中文博客地址：http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0810/3282.html
-2. 
+2. https://github.com/cymcsg/UltimateRecyclerView 非常强大的recylerView库，里面有很多支持不同功能的recylerview库
 
 ##非常不错的ViewPager Indicator指示器
 1.https://github.com/ogaclejapan/SmartTabLayout  带有动画效果的
