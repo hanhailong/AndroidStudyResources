@@ -162,5 +162,10 @@ https://github.com/shell-software/viewmover
 1.https://github.com/Karumi/HeaderRecyclerView  修改adapter的方式
 2.https://github.com/blipinsk/RecyclerViewHeader 推荐这个
 
+##Glide图片加载库-辅助库
+1.https://github.com/bumptech/glide Glide
+2.https://github.com/wasabeef/glide-transformations 一个基于Glide的transformation库，拥有裁剪，着色，模糊，滤镜等多种转换效果，赞的不行不行的~~
+3.https://github.com/florent37/GlidePalette 一个可以在Glide加载时很方便使用Palette的库
+
 
 
