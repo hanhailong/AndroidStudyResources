@@ -45,6 +45,7 @@
 
 ##ViewPager扩展
 1.https://github.com/Pixplicity/MultiViewPager 它可以让ViewPager一次显示更宽或者更窄的内容，它很好的处理了page之间的位置关系，能保证每次被选中的page显示在中间。
+2.https://github.com/imbryk/LoopingViewPager 循环的viewpager
 
 ##浮动操作按钮
 1.https://github.com/makovkastar/FloatingActionButton 不是官方版本，就是在指定了AbsListView, RecyclerView 或者 ScrollView 之后，按钮可以根据列表的滚动显示或者隐藏。
