@@ -170,5 +170,8 @@ https://github.com/shell-software/viewmover
 ##Android Swipe-to-Dismiss 轻扫消失
 1.https://github.com/romannurik/Android-SwipeToDismiss
 
+##高效的序列化库FlatBuffers，用来取代json
+1.https://github.com/google/flatbuffers  对protocolbuffer的扩展，适合用在app上
+
 
 
