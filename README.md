@@ -32,6 +32,7 @@
 ##Merarial Design设计
 1.https://github.com/frogermcs/InstaMaterial
 2.https://github.com/wasabeef/awesome-android-ui 给力的UI库
+3.https://github.com/balysv/material-ripple 一个包装ripple效果的views库
 
 ##MVP设计模式
 1.https://github.com/sockeqwe/mosby
@@ -87,6 +88,7 @@ https://github.com/shell-software/viewmover
 2.https://github.com/AlexKolpa/fab-toolbar \n
 3.https://github.com/prolificinteractive/material-calendarview 日历 \n
 4.https://github.com/frogermcs/InstaMaterial 非常不错的例子讲解
+5.https://github.com/balysv/material-ripple
 
 ##下拉刷新
 1.https://github.com/race604/FlyRefresh 纸飞机飞得效果 \n
