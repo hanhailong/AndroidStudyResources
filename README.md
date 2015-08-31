@@ -186,5 +186,8 @@ https://github.com/shell-software/viewmover
 ##高度自定义的DrawerLayout
 1.https://github.com/mikepenz/MaterialDrawer 一个高度灵活、自定义的DrawerLayout，比官方自带的NavigationView好用多了
 
+##给ActionBar的MenuItem添加Badge的库
+1.https://github.com/mikepenz/Android-ActionItemBadge
+
 
 
