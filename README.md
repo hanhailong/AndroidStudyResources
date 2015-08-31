@@ -33,6 +33,7 @@
 1.https://github.com/frogermcs/InstaMaterial
 2.https://github.com/wasabeef/awesome-android-ui 给力的UI库
 3.https://github.com/balysv/material-ripple 一个包装ripple效果的views库
+4.https://github.com/skyfishjy/android-ripple-background 具有ripple效果的background，可以用来做音频录入效果，效果很赞
 
 ##MVP设计模式
 1.https://github.com/sockeqwe/mosby
