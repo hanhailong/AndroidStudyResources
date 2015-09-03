@@ -189,5 +189,8 @@ https://github.com/shell-software/viewmover
 ##给ActionBar的MenuItem添加Badge的库
 1.https://github.com/mikepenz/Android-ActionItemBadge
 
+##Android下载工具库
+1.https://github.com/majidgolshadi/Android-Download-Manager-Pro
+
 
 
