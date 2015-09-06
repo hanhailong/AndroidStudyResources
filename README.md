@@ -194,5 +194,8 @@ https://github.com/shell-software/viewmover
 ##Android下载工具库
 1.https://github.com/majidgolshadi/Android-Download-Manager-Pro
 
+##ScrollView可回弹，阻尼回弹效果
+1.https://github.com/EverythingMe/OverScrollView 完全重写ScrollView效果
+
 
 
