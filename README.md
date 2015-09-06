@@ -12,6 +12,7 @@
 2.https://github.com/wangdan/AisenWeiBo 新浪微博第三方Android客户端
 3.https://github.com/rizhilee/Beautyacticle 最美文字
 4.https://github.com/saulmm/Material-Movies 基于meterial design和mvp设计模式的app
+5.https://github.com/SkillCollege/SimplifyReader 简阅
 
 
 ***
@@ -133,6 +134,7 @@ https://github.com/shell-software/viewmover
 1.https://github.com/500px/500px-android-blur
 2.https://github.com/kikoso/android-stackblur  java层实现高斯模糊效果
 3.https://github.com/wasabeef/Blurry 图片模糊的库，简化了模糊，使用的renderscript
+4.https://github.com/qiujuer/ImageBlurring 图片模糊
 
 ##DrawerArrowDrawable
 1.https://github.com/hanhailong/DrawerArrowDrawable
