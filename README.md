@@ -4,6 +4,9 @@
 
 ##在使用Android Studio的时候，在写Dependency依赖库的时候，往往不知道compile后面一大串的内容，如库的包名、版本号，[alfi](https://github.com/cesarferreira/alfi)就很好的解决了这个问题，安装完后，直接alfi + 库名 搜索就可以了，类似IOS的cocoapods中的pod search命令
 
+##AndroidStudio不错的插件
+1.https://github.com/Vektah/CodeGlance 代码缩略图插件
+
 ##检测内存泄露的工具
 1.https://github.com/square/leakcanary square出品
 
