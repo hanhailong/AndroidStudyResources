@@ -1,3 +1,6 @@
+[![Codewake](https://www.codewake.com/badges/codewake.svg)](https://www.codewake.com/p/androidstudyresources)
+[![Codewake](https://www.codewake.com/badges/codewake2.svg)](https://www.codewake.com/p/androidstudyresources)
+
 [CSDN 博客地址](http://blog.csdn.net/hanhailong726188?viewmode=contents)
 
 ***
