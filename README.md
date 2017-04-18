@@ -5,15 +5,15 @@
 
 ***
 
-##在使用Android Studio的时候，在写Dependency依赖库的时候，往往不知道compile后面一大串的内容，如库的包名、版本号，[alfi](https://github.com/cesarferreira/alfi)就很好的解决了这个问题，安装完后，直接alfi + 库名 搜索就可以了，类似IOS的cocoapods中的pod search命令
+## 在使用Android Studio的时候，在写Dependency依赖库的时候，往往不知道compile后面一大串的内容，如库的包名、版本号，[alfi](https://github.com/cesarferreira/alfi)就很好的解决了这个问题，安装完后，直接alfi + 库名 搜索就可以了，类似IOS的cocoapods中的pod search命令
 
-##AndroidStudio不错的插件
+## AndroidStudio不错的插件
 1.https://github.com/Vektah/CodeGlance 代码缩略图插件
 
-##检测内存泄露的工具
+## 检测内存泄露的工具
 1.https://github.com/square/leakcanary square出品
 
-#不错的Android学习源码（整个app）
+# 不错的Android学习源码（整个app）
 1.https://github.com/xingrz/GankMeizhi  干妹子
 2.https://github.com/wangdan/AisenWeiBo 新浪微博第三方Android客户端
 3.https://github.com/rizhilee/Beautyacticle 最美文字
@@ -22,44 +22,44 @@
 
 
 ***
-#强烈推荐，Android源码解析学习网站  
+# 强烈推荐，Android源码解析学习网站  
 1.http://codekk.com/open-source-project-analysis
 2.http://www.trinea.cn/
 
 ***
-#各种语言的gitignore
+# 各种语言的gitignore
 1.https://github.com/github/gitignore
 
-##Android遇到的问题总结，非常不错
+## Android遇到的问题总结，非常不错
 1.https://github.com/android-cn/android-discuss
 
 # AndroidStudyResources
 整理的Android学习资源，不定期的更新
 
-##Merarial Design设计
+## Merarial Design设计
 1.https://github.com/frogermcs/InstaMaterial
 2.https://github.com/wasabeef/awesome-android-ui 给力的UI库
 3.https://github.com/balysv/material-ripple 一个包装ripple效果的views库
 4.https://github.com/skyfishjy/android-ripple-background 具有ripple效果的background，可以用来做音频录入效果，效果很赞
 
-##MVP设计模式
+## MVP设计模式
 1.https://github.com/sockeqwe/mosby
 2.https://github.com/square/mortar 
 3.https://github.com/konmik/nucleus
 4.https://github.com/saulmm/Material-Movies
 
-##官方版本MVVM
+## 官方版本MVVM
 1.https://github.com/LyndonChin/MasteringAndroidDataBinding
 2.https://github.com/inloop/AndroidViewModel 
 
-##Gradle讲解
+## Gradle讲解
 1.http://saulmm.github.io/squeezing-gradle-builds/?utm_source=Android+Weekly&utm_campaign=4985998ae5-Android_Weekly_163&utm_medium=email&utm_term=0_4eb677ad19-4985998ae5-337838241 不错的Gradle多渠道打包，替换资源
 
-##ViewPager扩展
+## ViewPager扩展
 1.https://github.com/Pixplicity/MultiViewPager 它可以让ViewPager一次显示更宽或者更窄的内容，它很好的处理了page之间的位置关系，能保证每次被选中的page显示在中间。
 2.https://github.com/imbryk/LoopingViewPager 循环的viewpager
 
-##浮动操作按钮
+## 浮动操作按钮
 1.https://github.com/makovkastar/FloatingActionButton 不是官方版本，就是在指定了AbsListView, RecyclerView 或者 ScrollView 之后，按钮可以根据列表的滚动显示或者隐藏。
 2.android.support.design.widget.FloatingActionButton      优点是可以与Snackbar和CoordinatorLayout配合，在Snackbar显示的时候让出足够的空间
 3. https://github.com/shell-software/fab  
@@ -67,17 +67,17 @@
 5.https://github.com/futuresimple/android-floating-action-button 
 
 
-##Android支持item滑动显示更多操作按钮
+## Android支持item滑动显示更多操作按钮
 1.https://github.com/daimajia/AndroidSwipeLayout 支持任何一种布局，非常强大
 2.https://github.com/baoyongzhang/SwipeMenuListView 只支持listview
 
-##好用的图标图库
+## 好用的图标图库
 1.天猫矢量图库地址 http://www.iconfont.cn/repositories/60
 
-##Android数据库框架
+## Android数据库框架
 1.https://github.com/Raizlabs/DBFlow  一个简单强大的数据库
 
-##Android动画
+## Android动画
 1.viewpager动画详解
   >http://www.lightskystreet.com/2014/12/15/viewpager-anim/
   >https://github.com/ToxicBakery/ViewPagerTransforms
@@ -91,116 +91,116 @@ https://github.com/shell-software/viewmover
 6.https://github.com/jpardogo/GoogleProgressBar Google不错的动画效果
   
 
-##Material Design设计资源
+## Material Design设计资源
 1.https://github.com/florent37/MaterialViewPager \n
 2.https://github.com/AlexKolpa/fab-toolbar \n
 3.https://github.com/prolificinteractive/material-calendarview 日历 \n
 4.https://github.com/frogermcs/InstaMaterial 非常不错的例子讲解
 5.https://github.com/balysv/material-ripple
 
-##下拉刷新
+## 下拉刷新
 1.https://github.com/race604/FlyRefresh 纸飞机飞得效果 \n
 2.https://github.com/cyndibaby905/TwitterCover-Android  下拉header图片放大  \n
 
-##卡片堆叠效果
+## 卡片堆叠效果
 1.https://github.com/blipinsk/FlippableStackView 堆栈效果  \n
 2. https://github.com/binaryroot/HorizontalStackView 横向堆栈 \n
 3.https://github.com/MartinRGB/GiftCard-Android 礼品卡效果  \n 
 4.https://github.com/kikoso/Swipeable-Cards 效果非常赞的卡片移除效果，赞一个
 
-##炫酷的自定义控件（包括进度条、checkbox等等）
+## 炫酷的自定义控件（包括进度条、checkbox等等）
 1.https://github.com/Tibolte/ElasticDownload  炫酷进度条 \n
 2.https://github.com/hanks-zyh/AnimateCheckBox 炫酷的checkbox \n
 3.https://github.com/AigeStudio/DatePicker 日历选择器
 
-##多线程下载
+## 多线程下载
 1.https://github.com/AigeStudio/MultiThreadDownloader
 
-##Android依赖注入框架
+## Android依赖注入框架
 1.https://github.com/avast/android-butterknife-zelezny  butterknife的AS插件
 2.https://github.com/JakeWharton/butterknife
 3.https://github.com/excilys/androidannotations 
 4.https://github.com/google/dagger      google的dagger2
 5.https://github.com/square/dagger  square的dagger1
 
-##Android、Java的Rest客户端
+## Android、Java的Rest客户端
 1.https://github.com/square/retrofit
 
-##好看的指示器Indicator
+## 好看的指示器Indicator
 1.https://github.com/LyndonChin/AndroidRubberIndicator
 
-##热门标签流式布局
+## 热门标签流式布局
 1.https://github.com/LyndonChin/AndroidFlowLayout
 
-##高级的Textview
+## 高级的Textview
 1.https://github.com/chiuki/advanced-textview
 2.https://github.com/ufo22940268/android-justifiedtextview  TextView文字排版
 
-##Android模糊实现blur
+## Android模糊实现blur
 1.https://github.com/500px/500px-android-blur
 2.https://github.com/kikoso/android-stackblur  java层实现高斯模糊效果
 3.https://github.com/wasabeef/Blurry 图片模糊的库，简化了模糊，使用的renderscript
 4.https://github.com/qiujuer/ImageBlurring 图片模糊
 
-##DrawerArrowDrawable
+## DrawerArrowDrawable
 1.https://github.com/hanhailong/DrawerArrowDrawable
 
-##Android自定义崩溃页面
+## Android自定义崩溃页面
 1.https://github.com/Ereza/CustomActivityOnCrash  不在显示难看的崩溃dialog，而是自定义崩溃页面
 
-##Android 滑轮时间选择器
+## Android 滑轮时间选择器
 1.https://github.com/ai212983/android-spinnerwheel
 2.https://github.com/maarek/android-wheel  滑轮
 
-##Android 一个可以解析和绘制SVG的PathView
+## Android 一个可以解析和绘制SVG的PathView
 1.https://github.com/geftimov/android-pathview/
 
-##Android-点击View显示水波纹效果的库
+## Android-点击View显示水波纹效果的库
 1.https://github.com/siriscac/RippleView
 
-##一个复用代码的recycleview.adapter的库，秉承组合优于继承的原则
+## 一个复用代码的recycleview.adapter的库，秉承组合优于继承的原则
 1. https://github.com/hanhailong/AdapterDelegates 非常给力哦，对应的中文博客地址：http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0810/3282.html
 2. https://github.com/cymcsg/UltimateRecyclerView 非常强大的recylerView库，里面有很多支持不同功能的recylerview库
 
-##非常不错的ViewPager Indicator指示器
+## 非常不错的ViewPager Indicator指示器
 1.https://github.com/ogaclejapan/SmartTabLayout  带有动画效果的
 2.https://github.com/astuetz/PagerSlidingTabStrip 
 3.https://github.com/JakeWharton/ViewPagerIndicator 
 
-##ListView快速返回的view，listview底部出现、隐藏操作栏
+## ListView快速返回的view，listview底部出现、隐藏操作栏
 1.https://github.com/LarsWerkman/QuickReturnListView  
 
-##Android弹出框
+## Android弹出框
 2.https://github.com/pedant/sweet-alert-dialog 
 
-##给recylerview添加header或者footer
+## 给recylerview添加header或者footer
 1.https://github.com/Karumi/HeaderRecyclerView  修改adapter的方式
 2.https://github.com/blipinsk/RecyclerViewHeader 推荐这个
 
-##Glide图片加载库-辅助库
+## Glide图片加载库-辅助库
 1.https://github.com/bumptech/glide Glide
 2.https://github.com/wasabeef/glide-transformations 一个基于Glide的transformation库，拥有裁剪，着色，模糊，滤镜等多种转换效果，赞的不行不行的~~
 3.https://github.com/florent37/GlidePalette 一个可以在Glide加载时很方便使用Palette的库
 
-##Android Swipe-to-Dismiss 轻扫消失
+## Android Swipe-to-Dismiss 轻扫消失
 1.https://github.com/romannurik/Android-SwipeToDismiss
 
-##高效的序列化库FlatBuffers，用来取代json
+## 高效的序列化库FlatBuffers，用来取代json
 1.https://github.com/google/flatbuffers  对protocolbuffer的扩展，适合用在app上
 
-##Android插件开发
+## Android插件开发
 1.https://github.com/Qihoo360/DroidPlugin 奇虎360出品
 
-##高度自定义的DrawerLayout
+## 高度自定义的DrawerLayout
 1.https://github.com/mikepenz/MaterialDrawer 一个高度灵活、自定义的DrawerLayout，比官方自带的NavigationView好用多了
 
-##给ActionBar的MenuItem添加Badge的库
+## 给ActionBar的MenuItem添加Badge的库
 1.https://github.com/mikepenz/Android-ActionItemBadge
 
-##Android下载工具库
+## Android下载工具库
 1.https://github.com/majidgolshadi/Android-Download-Manager-Pro
 
-##ScrollView可回弹，阻尼回弹效果
+## ScrollView可回弹，阻尼回弹效果
 1.https://github.com/EverythingMe/OverScrollView 完全重写ScrollView效果
 
 
